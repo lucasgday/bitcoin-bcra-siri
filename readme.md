@@ -33,7 +33,7 @@ This project simulates the potential value of investing 1% of Argentina's centra
 1. Clone the repository:
    ```bash
    git clone https://github.com/lucasgday/bitcoin-bcra-siri.git
-   cd bitcoin-portfolio-simulation
+   cd bitcoin-bcra-siri
    ```
 
 2. Create a virtual environment (optional but recommended):
